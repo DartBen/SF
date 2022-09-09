@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using static System.Console;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -8,4 +10,5 @@
         Console.WriteLine("Здраствуйте,{0}", Name);
         Console.WriteLine("Я инженер-программист АСУТП. Хочу сменить несколько сменить профиль");
     }
+
 }
