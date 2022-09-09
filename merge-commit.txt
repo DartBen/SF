@@ -1,1 +1,2 @@
 merge-commit-test1
+merge-commit-test2
