@@ -2,3 +2,5 @@ merge-commit-test1
 merge-commit-test2
 merge-commit-test3
 merge-test-commit-test1
+
+merge-test-commit-test3
