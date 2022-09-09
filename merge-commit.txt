@@ -1,3 +1,13 @@
 merge-commit-test1
 merge-commit-test2
 merge-commit-test3
+<<<<<<< HEAD
+<<<<<<< HEAD
+merge-test-commit-test2
+merge-test-commit-test1
+=======
+merge-test-commit-test1
+>>>>>>> merge-test
+=======
+merge-test-commit-test1
+>>>>>>> merge-test
